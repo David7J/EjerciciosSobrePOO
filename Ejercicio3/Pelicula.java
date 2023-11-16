@@ -4,7 +4,7 @@ import java.util.Random;
 
 class Pelicula {
     private String titulo;
-    private int duracion; // En minutos
+    private int duracion; 
     private int edadMinima;
     private String director;
 
